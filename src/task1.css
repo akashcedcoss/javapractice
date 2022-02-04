@@ -1,0 +1,36 @@
+.container {
+  margin-left: 35%;
+  margin-top: 15%;
+}
+#firstvalue {
+  margin: 0;
+  text-align: center;
+  padding: 10px;
+}
+#secondvalue {
+  margin: 0%;
+  text-align: center;
+  margin-top: 4%;
+  display: inline;
+  padding: 10px;
+}
+#calculation {
+  margin: 2%;
+  padding: 10px;
+
+  width: auto;
+}
+.c3 {
+  padding-left: 16.5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.c1 {
+  overflow: hidden;
+}
+label {
+  padding: 2%;
+}
+#demo {
+  margin-bottom: 2%;
+}
